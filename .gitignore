@@ -1,7 +1,3 @@
 .vs/
 bin/
 obj/
-packages/
-
-*.user
-project.lock.json
